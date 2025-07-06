@@ -1,12 +1,12 @@
 const gameImages = {
-    "Triple Tile: Match Puzzle Game": "Goods Puzzle Match Sort Games.jpg",
-    "Zen Match Triple Tile Games": "Goods Puzzle Match Sort Games.jpg",
-    "Goods Puzzle Match: Sort Games": "Goods Puzzle Match Sort Games.jpg",
-    "Dream Words: Search & Explore": "Goods Puzzle Match Sort Games.jpg",
-    "Triple Tile Matching Games": "Goods Puzzle Match Sort Games.jpg",
-    "Word Connect: Crossword Puzzle": "Goods Puzzle Match Sort Games.jpg",
-    "Merge Master: Tank & Plane War": "Goods Puzzle Match Sort Games.jpg",
-    "Words of Wonders: Crosswords": "Goods Puzzle Match Sort Games.jpg"
+    "Triple Tile: Match Puzzle Game": "Game Icons/TileMaster.png",
+    "Zen Match Triple Tile Games": "Game Icons/TileMaster.png",
+    "Goods Puzzle Match: Sort Games": "Game Icons/GoodSort.png",
+    "Dream Words: Search & Explore": "Game Icons/WordSearch.png",
+    "Triple Tile Matching Games": "Game Icons/TileMaster.png",
+    "Word Connect: Crossword Puzzle": "Game Icons/WordSearch.png",
+    "Merge Master: Tank & Plane War": "Game Icons/MargeTank.png",
+    "Words of Wonders: Crosswords": "Game Icons/WordWonder.png"
 };
 
 const games = [
