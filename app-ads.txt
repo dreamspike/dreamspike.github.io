@@ -1,4 +1,5 @@
 google.com, pub-1534474541196511, DIRECT, f08c47fec0942fa0
+google.com, pub-9672612359959873, DIRECT, f08c47fec0942fa0
 smartclip.net, 15458, RESELLER
 smartclip.net, 27985, RESELLER
 bidmachine.io, 113, RESELLER
